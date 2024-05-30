@@ -5,3 +5,5 @@
 💼 I'm always eager to collaborate on new projects and expand my skill set. You can reach out to me at melissasantos2202@gmail.com. Feel free to connect with me on LinkedIn here or explore my GitHub repositories here to learn more about my work.
 
 ✨ Looking forward to connecting with fellow enthusiasts and exploring exciting opportunities in the world of mathematics and computer science!
+
+[![My Skills](https://skillicons.dev/icons?i=java,C++,SQL,Python)](https://skillicons.dev)
