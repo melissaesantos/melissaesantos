@@ -8,7 +8,7 @@ A 4th year student at UCSD majoring in Mathematics and Computer Science. I have 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaesantos&show_icons=true&theme=cobalt)
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/melissasantos)
+- [LinkedIn](https://www.linkedin.com/in/melissaesantos)
 
 - [Personal Website](https://melissa-santos.siter.io/)
 
