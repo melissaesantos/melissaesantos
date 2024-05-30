@@ -6,4 +6,4 @@
 
 ✨ Looking forward to connecting with fellow enthusiasts and exploring exciting opportunities in the world of mathematics and computer science!
 
-[![My Skills](https://skillicons.dev/icons?i=java,C++,SQL,Python)](https://skillicons.dev)
+## Languages:[![My Skills](https://skillicons.dev/icons?i=java,cpp,sql,python)](https://skillicons.dev)
