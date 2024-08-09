@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 ## About me:
-A 4th year student at UCSD majoring in Mathematics and Computer Science. I have a passion for exploring the intersections between these disciplines and leveraging technology to solve complex problems.
+A recent UCSD Graduate, majored in Mathematics and Computer Science. I have a passion for exploring the intersections between these disciplines and leveraging technology to solve complex problems.
 
 
 ## GitHub Stats
