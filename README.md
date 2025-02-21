@@ -22,6 +22,6 @@ A recent UCSD Graduate, majored in Mathematics and Computer Science. I have a pa
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vim,vscode,atom,figma)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vim,vscode,atom,figma,angular)
 
 
