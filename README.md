@@ -11,7 +11,7 @@ A recent UCSD Graduate, majored in Mathematics and Computer Science. I have a pa
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/melissaesantos)
 
-- [Personal Website](https://melissa-santos.siter.io/)
+- [Personal Website](https://melissaesantos.github.io/Portfolio-Website/)
 
 ## Skills
 
